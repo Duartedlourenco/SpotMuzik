@@ -28,15 +28,10 @@ A desktop music player application built with Python and Tkinter that fetches tr
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/spotmuzik.git
+git clone https://github.com/Duartedlourenco/spotmuzik.git
 cd spotmuzik/Projeto
 
-# 2. (Recommended) Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate        # macOS / Linux
-venv\Scripts\activate           # Windows
-
-# 3. Install dependencies
+# 2. Install dependencies
 pip install -r requirements.txt
 ```
 
